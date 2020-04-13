@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "itworks"
+    }
+  },
+  "defaultProject": "itworks",
+  "cli": {
+    "analytics": false
+  }
 }
